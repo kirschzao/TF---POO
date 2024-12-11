@@ -1,0 +1,5 @@
+tipo;numero;nomecliente;descricao;peso;latorigem;longorigem;latdestino;longdestino;qtdpessoas_perigosa_tempmin;tempmax
+1;123;Luzi Ana ;Levar a Familia para Paris;500.0;-15.78;48.85341;-47.9292;2.3511;3
+3;222;Joana Santos;Pandas;250.3;-30.027593;-51.227884;-27.597393;-48.55289;20.1;30.9
+1;111;Maria da Silva;Trabalho;140.1;-30.02719;-51.161572;-30.061458;-51.173695;2
+2;333;Mario da Silva;Chocolate;150.2;-29.378867;-50.873611;-30.02719;-51.161572;true
